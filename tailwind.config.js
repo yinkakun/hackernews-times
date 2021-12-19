@@ -11,6 +11,7 @@ module.exports = {
       },
       colors: {
         'yellowish-orange': '#F9F7F1',
+        'raisin-black': '#262626',
       },
     },
   },
