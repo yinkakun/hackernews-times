@@ -18,9 +18,9 @@ const Layout = ({ children, title = '', description = '' }: LayoutProps) => (
       <title>{title}</title>
       <meta name="description" content={description} />
     </Helmet>
-    <div className="flex flex-col min-h-full bg-yellowish-orange font-body text-raisin-black">
+    <div className="flex flex-col min-h-full bg-yellowish-orange font-body text-raisin-black bg-paper-texture">
       <Header />
-      <main className="flex items-center justify-center flex-grow">
+      <main className="flex items-center justify-center flex-grow ">
         {children}
       </main>
       <Footer />

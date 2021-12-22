@@ -13,6 +13,9 @@ module.exports = {
         'yellowish-orange': '#F9F7F1',
         'raisin-black': '#262626',
       },
+      backgroundImage: {
+        'paper-texture': "url('src/images/paper-texture.png')",
+      },
     },
   },
   variants: {
