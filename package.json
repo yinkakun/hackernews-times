@@ -24,6 +24,7 @@
   "dependencies": {
     "@vanilla-extract/css": "1.6.8",
     "autoprefixer": "10.4.0",
+    "dayjs": "1.10.7",
     "framer-motion": "5.5.5",
     "gatsby": "4.4.0",
     "gatsby-plugin-alias-imports": "1.0.5",
